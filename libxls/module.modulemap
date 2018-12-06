@@ -1,0 +1,4 @@
+module libxls [system] {
+    header "./include/xls.h"
+    export *
+}
