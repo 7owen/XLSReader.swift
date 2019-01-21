@@ -1,0 +1,6 @@
+framework module XLSReader_swift {
+  umbrella header "XLSReader.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

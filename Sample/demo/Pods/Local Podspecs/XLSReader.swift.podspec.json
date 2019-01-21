@@ -1,0 +1,24 @@
+{
+  "name": "XLSReader.swift",
+  "version": "0.0.1",
+  "summary": "A Swift Framework that can read .xls Files.",
+  "description": "A Swift Framework that can read .xls Files.",
+  "homepage": "https://github.com/7owen/XLSReader.swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "7owen": "a@lgw.im"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/7owen/XLSReader.swift.git",
+    "branch": "develop"
+  },
+  "source_files": "libxls/**/*.{h,c}",
+  "requires_arc": true,
+  "libraries": "iconv"
+}

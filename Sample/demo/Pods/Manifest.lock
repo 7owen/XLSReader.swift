@@ -1,0 +1,21 @@
+PODS:
+  - XLSReader.swift (0.0.1)
+
+DEPENDENCIES:
+  - XLSReader.swift (from `../../XLSReader.podspec`)
+
+EXTERNAL SOURCES:
+  XLSReader.swift:
+    :podspec: "../../XLSReader.podspec"
+
+CHECKOUT OPTIONS:
+  XLSReader.swift:
+    :commit: 21152f9b2d1660332069ee773a90ee5ae2e62f48
+    :git: https://github.com/7owen/XLSReader.swift.git
+
+SPEC CHECKSUMS:
+  XLSReader.swift: dd9468b430cd92dd56fcdb09d3f1afdeaaa6930b
+
+PODFILE CHECKSUM: 6e9bf1ceec7f551173f30e17ff984c66e6bd832a
+
+COCOAPODS: 1.5.3
